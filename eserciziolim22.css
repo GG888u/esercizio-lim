@@ -1,0 +1,116 @@
+
+
+body{
+    background-image: url("nuova.jpg");
+    
+}
+
+.logo{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+    height:10%;
+}
+
+.modulo-ricerca{
+    margin-left:39%;
+}
+
+.titolo{
+    color:yellowgreen;
+}
+
+
+.container{
+    width: 1000px;
+    margin:auto;
+}
+
+.tratitoloem{
+    color: rgba(0, 0, 0, 0.5);
+    opacity: 0.9;
+}
+.rettangolo{
+    margin-left: 325px;
+    margin-right: 324px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    border-radius: 2%;
+}
+
+.secondorettangolo{
+        margin-left:40px;
+ 
+        margin-right:40px;
+        margin-top: 30px;
+}
+
+div.rettangolo{
+    background-color:rgba(0, 0, 0, 0.5)
+}
+.sinistra{
+    width:55%;
+    display: inline-block;
+}
+
+.comandi{
+    background-color:yellowgreen;
+    height:25px;
+}
+
+.statobatteria1{
+    background-color:yellow;
+    width: 200px;
+    border-radius: 5px;
+    height:19px;
+}
+.giall{
+    color: yellow;
+   
+}
+.statobatteria2{
+    background-color:rgb(181, 28, 28);
+    height:19px;
+    width: 150px;
+    border-radius: 5px;
+
+}
+.titoletti{
+    color: white;
+    dispaly:inline-block;
+    font-size: large;
+}
+
+.statobatteria3{
+    background-color:green;
+    height:19px;
+    width:300px;
+
+    border-radius: 5px;
+}
+
+.riquadrodeimonopattini{
+    height:200px;
+}
+
+.paragrafo{
+    overflow-wrap: break-word;
+}
+
+.rosso{
+    color:rgb(181, 28, 28);
+   
+}
+.verde{
+    color:green;
+    
+}
+.minitesto{
+    color:white;
+}
+
+.selezionare{
+    height: 110px;
+}
+
